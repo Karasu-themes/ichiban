@@ -41,3 +41,10 @@ Para trabajar el modo desarrollo contamos con el motor ded plantilla ejs por lo 
 - [BloggerCode (Documentación detallada blogger por Soraya Lambrechts)](https://bloggercode-blogconnexion.blogspot.com/)
 
 
+## Apoyo
+
+Si deseas ayudarme a mantener este y futuros proyectos similares puedes adquirir alugno de mis [plantillas](https://www.karasu-themes.com/) para blogger o [invitarme un café](https://ko-fi.com/karasuthemes). Te lo agradeceré mucho. 👏
+
+## License
+
+**Ichiban** is licensed under the GNU General Public License v3.0
