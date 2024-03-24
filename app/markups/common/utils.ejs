@@ -20,8 +20,8 @@ How to use:
   <b:class cond='data:view.isSearch' name='search-page' />
   <b:class cond='data:view.isArchive' name='archive-page' />
   <b:class cond='data:view.isError' name='error-page' />
-  <b:attr cond='data:view.isPost' name='data-post-id' expr:value='data:post.id' />
-  <b:attr cond='data:view.isPage' name='data-page-id' expr:value='data:post.id' />
+  <b:attr cond='data:view.isPost' expr:value='data:view.postId' name='data-post-id'/>
+  <b:attr cond='data:view.isPage' expr:value='data:view.pageId' name='data-page-id'/>
   <b:attr name='data-blog-id' expr:value='data:blog.blogId' />
 </b:includable>
 
